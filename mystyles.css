@@ -1,0 +1,28 @@
+.custom-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.custom-heading {
+    font-family: 'Lora', serif;
+    color: #e6007e;
+    text-align: center;
+}
+
+.custom-subheading {
+    font-family: 'Lora', serif;
+    color: #0066cc;
+    text-align: left;
+}
+
+.custom-link {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+.custom-link:hover {
+    color: #cc5200;
+    text-decoration: underline;
+}
